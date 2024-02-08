@@ -7,7 +7,7 @@ set(COMPONENT_ADD_INCLUDEDIRS
 )
 
 set(COMPONENT_REQUIRES
-    "arduino-esp32"
+    "arduino"
     "AsyncTCP"
 )
 
